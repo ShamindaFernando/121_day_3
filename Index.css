@@ -1,25 +1,63 @@
 h1{
-            background-color: gray;
+            background-color: LIGHTGREY;
             color:BLACK;
             text-align: center;
             FONT-SIZE: 60PX;
             FONT-FAMILY: NEW TIMES ROMAN,BOLD,ITALIC;
-        }
+}
         h2{
-            font-size: 50px;
-            color: red;
+            font-size: 60px;
+            color: black;
             text-decoration: underline;
             text-decoration-color: black;
-            text-decoration-thickness: 5px;
+            text-decoration-thickness: 7px;
         }
-         h3{
+        
+         .h3_1{
             font-size: 35px;
             color: black;
-            background-color: lightgray;
-       
         } 
+        
+        .h3_2{
+            font-size: 35px;
+            color: black;
+        }
         p{
             font-size: 20px;
             color:black,bold;
             background-color:lightseagreen;
         }
+        body{
+            background-color: darkgray;
+        }
+
+        .ui1{
+            color: red;
+        }
+
+        .ui2{
+            color: green;
+        }
+
+        .ui3{
+            color: blue;
+        }
+
+        .ui4{
+            color: orange;
+        }
+
+        .ui5{
+            color: purple;
+        }
+
+        #p1{
+            background-color: lightcoral;
+        }
+
+        *{
+            margin: 10px;
+            padding: 10px;
+               
+            
+        }        
