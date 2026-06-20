@@ -1,0 +1,25 @@
+h1{
+            background-color: gray;
+            color:BLACK;
+            text-align: center;
+            FONT-SIZE: 60PX;
+            FONT-FAMILY: NEW TIMES ROMAN,BOLD,ITALIC;
+        }
+        h2{
+            font-size: 50px;
+            color: red;
+            text-decoration: underline;
+            text-decoration-color: black;
+            text-decoration-thickness: 5px;
+        }
+         h3{
+            font-size: 35px;
+            color: black;
+            background-color: lightgray;
+       
+        } 
+        p{
+            font-size: 20px;
+            color:black,bold;
+            background-color:lightseagreen;
+        }
